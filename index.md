@@ -1,6 +1,8 @@
 # VALENTIN DEBELS
 ### 21 ans
 
+![Photo Valentin DEBELS](photomoi.jpg "Profil picture")
+
 ## A PROPOS
 Je m’apelle Valentin, j’ai 19 ans et je suis étudiant en DUT MMI, une formation en design web et multimédia à l’université de Rouen.
 
