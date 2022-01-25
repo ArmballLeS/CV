@@ -21,9 +21,9 @@ __Website:__
 [valentindebels.fr](https://www.valentindebels.fr)
 
 ## SCOLARITE
-* License Pro métiers du numérique (Infographie, Audiovisuel, CommunicationDigitale, DévelopementWeb) Université de Rouen, Elbeuf(76) France
-* DUT Multimédia et Métiers de l’Internet (Infographie, Audiovisuel, CommunicationDigitale, DévelopementWeb) Université de Rouen, Elbeuf(76) France
-* Bacalauréat Scientifique, Mention assez bien Lycée Rey, Bois-Guilaume(76) France
+* __License Pro métiers du numérique (Infographie, Audiovisuel, CommunicationDigitale, DévelopementWeb)__ Université de Rouen, Elbeuf(76) France
+* __DUT Multimédia et Métiers de l’Internet (Infographie, Audiovisuel, CommunicationDigitale, DévelopementWeb)__ Université de Rouen, Elbeuf(76) France
+* __Bacalauréat Scientifique, Mention assez bien Lycée Rey__, Bois-Guilaume(76) France
 
 ## EXPERIENCES PROFESSIONNELLES
 * Stagiaire-Radio Sensation Participation au fonctionement d’une web-radio/TV lors de l’armada 2019 (Reportages sur leterain, Montage vidéo, émissions en plateau)
